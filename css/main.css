@@ -1,0 +1,13 @@
+* {
+    box-sizing:border-box;
+}
+
+img {
+    width: 100%;
+}
+
+.slideshow_box {
+  width: 80%;
+  position: relative;
+  margin: auto;
+}
